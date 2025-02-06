@@ -2,7 +2,7 @@
 
 ## About the Project
 
-The **Smartly Darija NLP Project** is an open-source initiative aimed at building a high-quality multilingual dataset for the Moroccan dialect, **Darija**. This dataset bridges **Darija** (in Arabic script and Arabizi), **Modern Standard Arabic**, and **English** to support innovative natural language processing (NLP) solutions.
+The **Smartly Tamazight NLP Project** is an open-source initiative aimed at building a high-quality multilingual dataset for the Moroccan dialect, **Tamazight**. This dataset bridges **Tamazight** (in Arabic script and latin), and **English** to support innovative natural language processing (NLP) solutions.
 
 Our community is a collaborative space where contributors of all backgrounds can work together to advance linguistic research while respecting and valuing Moroccan cultural diversity.
 
@@ -10,7 +10,7 @@ Our community is a collaborative space where contributors of all backgrounds can
 
 ## Our Pledge
 
-We, as contributors and maintainers of the **Smartly Darija NLP Project**, pledge to foster an open, welcoming, and harassment-free environment.  
+We, as contributors and maintainers of the **Smartly Tamazight NLP Project**, pledge to foster an open, welcoming, and harassment-free environment.  
 We are committed to ensuring that everyone, regardless of age, gender identity, cultural background, language proficiency, or technical experience, can contribute meaningfully to this project.
 
 ---
@@ -36,7 +36,7 @@ We will not tolerate:
 
 ## Reporting Issues
 
-If you experience or witness unacceptable behavior, please report it by opening an issue in the **[Issues section](https://github.com/SmartlyAI/moroccan-darija-dataset/issues)**.  
+If you experience or witness unacceptable behavior, please report it by opening an issue in the **[Issues section](https://github.com/SmartlyAI/Tamazight_dataset/issues)**.  
 Provide as much detail as possible, such as links, context, or examples.  
 
 All reports will be reviewed confidentially, and the project maintainers will take appropriate action to address the issue.
@@ -78,12 +78,12 @@ It also applies when an individual is representing the project in public spaces,
 
 ## Why This Matters
 
-The success of the **Smartly Darija NLP Project** depends on the collaboration and contributions of a diverse and inclusive community.  
+The success of the **Smartly Tamazight NLP Project** depends on the collaboration and contributions of a diverse and inclusive community.  
 By adhering to this Code of Conduct, we ensure a respectful and productive environment for everyone.
 
 ---
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, with adjustments to align with the specific goals and values of the **Smartly Darija NLP Project**.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, with adjustments to align with the specific goals and values of the **Smartly Tamazight NLP Project**.
 
