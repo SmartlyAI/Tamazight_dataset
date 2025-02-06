@@ -1,23 +1,23 @@
-# Contributing to Smartly Darija NLP Project
+# Contributing to Smartly Tamazight NLP Project
 
-Thank you for considering contributing to the **Smartly Darija NLP Project**! Your contributions help improve the dataset and make it a valuable resource for processing the Moroccan dialect, **Darija**.
+Thank you for considering contributing to the **Smartly Tamazight NLP Project**! Your contributions help improve the dataset and make it a valuable resource for processing the Amazight dialect, **Tamazight**.
 
 ---
 
 ## How to Contribute
 
-1. **[Go to the Issues section](https://github.com/SmartlyAI/moroccan-darija-dataset/issues)**:
+1. **[Go to the Issues section](https://github.com/SmartlyAI/Tamazight_dataset/issues)**:
    - Browse available issues.
    - Choose one and **comment on it** to have it assigned to you.
 
-2. **[Fork the Repository](https://github.com/SmartlyAI/moroccan-darija-dataset)**:
+2. **[Fork the Repository](https://github.com/SmartlyAI/Tamazight_dataset)**:
    - Click the **"Fork"** button to create a copy of this repository in your GitHub account.
 
 3. **Clone Your Fork Locally**:
    - Clone the repository to your local machine to start working:
      ```bash
-     git clone https://github.com/YOUR_USERNAME/moroccan-darija-dataset.git
-     cd moroccan-darija-dataset
+     git clone https://github.com/YOUR_USERNAME/Tamazight_dataset.git
+     cd Tamazight_dataset
      ```
 
 4. **Create a New Branch**:
@@ -27,7 +27,7 @@ Thank you for considering contributing to the **Smartly Darija NLP Project**! Yo
      ```
 
 5. **Make Your Changes**:
-   - Add translations for phrases in **Darija (Arabic)** and **Arabizi (Latin)**.
+   - Add translations for phrases in **Tamazight (Arabic)** and **Tamazight (Latin)**.
    - Fix typos or inconsistencies in the dataset.
 
 6. **Commit Your Changes**:
@@ -52,7 +52,7 @@ Thank you for considering contributing to the **Smartly Darija NLP Project**! Yo
 
 ## Contribution Guidelines
 
-- **Translation Rules**: Follow the transcription rules outlined in the `README.md` for consistency in **Darija** and **Arabizi** translations.
+- **Translation Rules**: Follow the transcription rules outlined in the `README.md` for consistency in **DarijaTamazight** and **Lating** translations.
 - **Respect the Community**: Maintain a respectful and inclusive environment for all contributors.
 - **Provide Clear Descriptions**: Clearly describe the changes in your pull request.
 
@@ -60,8 +60,8 @@ Thank you for considering contributing to the **Smartly Darija NLP Project**! Yo
 
 ## Need Help?
 
-If you encounter any issues or have questions, feel free to open an issue in the **[Issues section](https://github.com/SmartlyAI/moroccan-darija-dataset/issues)** or contact the maintainers directly.
+If you encounter any issues or have questions, feel free to open an issue in the **[Issues section](https://github.com/SmartlyAI/Tamazight_dataset/issues)** or contact the maintainers directly.
 
 ---
 
-Thank you for contributing to the **Smartly Darija NLP Project**! 😊
+Thank you for contributing to the **Smartly Tamazight NLP Project**! 😊
