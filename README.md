@@ -1,12 +1,12 @@
-# Smartly Darija NLP Project
+# Smartly Tamazight NLP Project
 
-Welcome to the **Smartly Darija NLP Project**, an ambitious open-source initiative by **Smartly.ai**, dedicated to the Moroccan dialect, **Darija**.
+Welcome to the **Smartly Tamazight NLP Project**, an ambitious open-source initiative by **Smartly.ai**, dedicated to the Amazigh dialect, **Tamazight**.
 
 ## 📌 Project Objective
 
 This project aims to collect, organize, and develop a powerful multilingual dataset that bridges:
 
-- **Darija** (written in Arabic script and Latin transcription, *Arabizi*),
+- **Tamazight** (written in Tifinagh, Arabic script and Latin transcription),
 - **Modern Standard Arabic (MSA)**, and
 - **English**
 
@@ -14,15 +14,15 @@ This project aims to collect, organize, and develop a powerful multilingual data
 
 This dataset will serve as the foundation for developing an **intelligent chatbot** capable of:
 
-- Understanding **natural Darija**.
+- Understanding **Amazigh dialect**.
 - Identifying the context of questions.
 - Delivering **precise and tailored** responses.
 ### 🌟 Example
-**User Input:**  
-`كيفاش نبدل كلمة السر؟`
+**User Input:**
+`ⵎⴰⵏⵉⴽ ⵔⴰⴷⵙⴽⵔⵖ ⴱⴰⵛ ⴰⴷⴱⴰⴷⵍⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ?`
 
 **Expected Output:**  
-`باش تبدل كلمة السر، سير ل'نسيت كلمة السر' وبدل.`
+`ⴱⴰⵛ ⴰⵜⵙⴱⴰⴷⵍⵜ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ ⵉⵅⴰⵙⵙⴰⴽ ⴰⵜⵜⴰⴷⵔⵜ ⴼ 'ⵜⵜⵓⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ' ⵔⴰⴽⵓⴷⴰⵏ ⵙⴱⴰⴷⵍⵜ.`
 
 By highlighting the richness and diversity of Moroccan culture, we aim to lay the groundwork for innovative **Natural Language Processing (NLP)** solutions.
 ---
@@ -30,16 +30,16 @@ By highlighting the richness and diversity of Moroccan culture, we aim to lay th
 
 We invite everyone to join us in this exciting project! Here's how you can contribute:
 
-1. **[Go to the Issues section](https://github.com/SmartlyAI/moroccan-darija-dataset/issues):**
+1. **[Go to the Issues section](https://github.com/SmartlyAI/Tamazight_dataset/issues):**
    - Browse the available issues.
    - Choose one and **comment on it** to have it assigned to you.
 
-2. **[Fork the Dataset Repository](https://github.com/SmartlyAI/moroccan-darija-dataset):**
+2. **[Fork the Dataset Repository](https://github.com/SmartlyAI/Tamazight_dataset):**
    - Create your own copy of the repository by clicking the "Fork" button.
 
 3. **Translate and fix typos:**
    - Work on the file corresponding to your assigned issue by:
-     - Adding translations in **Darija (Arabic)** and **Arabizi (Latin)**.
+     - Adding translations in **Tamazight (Tifinagh)**, Tamazight(Arabic) and **Tamazight (Latin)**.
      - Fixing any typos or inconsistencies.
 
 4. If there are multiple possible synonyms, you can duplicate the phrases and provide additional translations.
@@ -48,30 +48,30 @@ We invite everyone to join us in this exciting project! Here's how you can contr
 
 ## 🔍 Recommendation: Translation and Transcription Guide
 
-To maintain consistency across the dataset, here’s a guide for aligning **Darija (Arabic)**, **Arabizi**, **MSA**, and **English** translations.
+To maintain consistency across the dataset, here’s a guide for aligning **Tamazight (Tifinagh)**, **Tamazight(Arabic)**, **MSA**, and **English** translations.
 
 ### 1. Example Translation Table
 
-| **Darija (Arabic)**      | **Arabizi (Latin)**  | **MSA (Modern Standard Arabic)** | **English**   |
-|---------------------------|----------------------|-----------------------------------|---------------|
-| بغيت                      | bghit               | أريد                              | I want        |
-| شنو هو الرصيد ديالي؟       | shno howa raseed diali? | ما هو رصيدي؟                    | What is my balance? |
-| بغيت نعرف الرصيد ديالي     | bghit na3raf raseed diali | أريد معرفة رصيدي                 | I want to know my balance |
+| **Tamazight (Tifinagh)**      | **Tamazight (Latin)**  | **Tamazight (Arabic)**  | **MSA (Modern Standard Arabic)** | **English**   |
+|---------------------------|----------------------|----------------------|-----------------------------------|---------------|
+| ⵔⵉⵖ                      | righ             |  ريغ            | أريد                              | I want        |
+| ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ ?      | mnchk addari illan ? | منشك اداري ايلان ؟  | ما هو رصيدي؟                    | What is my balance? |
+| ⵔⵉⵖ  ⴰⴷⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ adssngh mnchk addari illan | أريد معرفة رصيدي                 | I want to know my balance |
 
 ---
 
-### 2. Arabizi Transcription Rules
+### 2. Arabic Transcription Rules
 
-When contributing to the dataset, please follow these guidelines for transcribing **Darija** into **Arabizi**:
+When contributing to the dataset, please follow these guidelines for transcribing **Tamazight** into **Arabic letters**:
 
 #### 2.1 Common Substitutions
 
-In **Arabizi**, Arabic letters can be expressed using numbers to represent sounds that do not exist in the Latin alphabet. These substitutions are widely recognized in digital communication and should be used consistently throughout the dataset.
+In **Arabic**, Arabic letters can be expressed using numbers to represent sounds that do not exist in the Latin alphabet. These substitutions are widely recognized in digital communication and should be used consistently throughout the dataset.
 
-| **Darija Characters** | **Arabizi (Numbers)** | **Arabic Characters** |  
+| **Tifinagh** | **Arabic (Numbers)** | **Arabic Characters** |  
 |------------------------|-----------------------|------------------------|
-| 3                      | ع                    | ع                      |
-| 7                      | ح                    | ح                      |
+| 3                      | ع                    | ⵄ                      |
+| 7                      | ح                    | ⵃ                      |
 | 9                      | ق                    | ق                      |
 | 8                      | ه                    | هـ                     |
 | 2 (`a`, `i`)           | ء                    | همزة                  |
