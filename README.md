@@ -68,14 +68,14 @@ When contributing to the dataset, please follow these guidelines for transcribin
 
 In **Arabic**, Arabic letters can be expressed using numbers to represent sounds that do not exist in the Latin alphabet. These substitutions are widely recognized in digital communication and should be used consistently throughout the dataset.
 
-| **Tifinagh** | **Arabic (Numbers)** | **Arabic Characters** |  
+| **Tifinagh** | **Numbers** | **Arabic Characters** |  
 |------------------------|-----------------------|------------------------|
-| 3                      | ع                    | ⵄ                      |
-| 7                      | ح                    | ⵃ                      |
-| 9                      | ق                    | ق                      |
-| 8                      | ه                    | هـ                     |
-| 2 (`a`, `i`)           | ء                    | همزة                  |
-| 5 (`kh`)               | خ                    | خ                      |
+| ⵄ                      | 3                    | ع                      |
+| ⵃ                      | 7                    | ح                      |
+| ⵇ                      | ق                    | 9                      |
+| ⵀ                      | ه                    | 8                     |
+| ⴰ (`a`, `i`)           | ء                    | 2                  |
+| ⵅ (`kh`)               | خ                    | 5                      |
 
 #### Examples:
 - Arabic: **عندي سؤال**  
