@@ -78,37 +78,43 @@ In **Arabic**, Arabic letters can be expressed using numbers to represent sounds
 | ⵅ (`kh`)               | 5                    | خ                      |
 
 #### Examples:
-- Arabic: **عندي سؤال**  
-  - Arabizi: **3ndi so2al**
-- Arabic: **حنا مغاربة**  
-  - Arabizi: **7na mgharba**
-- Arabic: **خدمة صعيبة**  
-  - Arabizi: **5edma s3iba**
+- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵉⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ :" ⵢⵓⴼ ⴰⵅⴱⴰⵛ ⵏ ⵜⵉⵣⵡⴰ ⴰⵛⵡⴰⵔⵉ ⵏ ⵉⵣⴰⵏ **  
+  - Tamazight(Arabic caracters): **ننان وين للي زرينين: 'يوف اخباش ن تيزوا اشواري ن ايزان'**
+  - Tamazight(Latin): **NNan willi zrinin :'Youf a5bach n tizwa achwari n izan'**
+- Tamazight(Tifinagh): **ⵜⴰⵎⵏⵜⵓⵏⵜ ⵉⴳⴳⵄⵜⵏ ⴰⵔ ⵜⵙⴱⵣⴰⴳ ⵍⵄⵊⵉⵏ**  
+  - Tamazight(Arabic caracters): **تاماتونت اغ تكوت ار تسبزاك العجين**
+  - Tamazight(Latin): **tamatont iggotn ar tsbzag l3jin**
+- Tamazight(Tifinagh): **ⵜⵛⵇⵇⴰ ⵜⴰⵡⵡⵓⵔⵉ**  
+  - Tamazight(Arabic caracters): **تشققا تاووري**
+  - Tamazight(Latin):**tche99a tawwori**
+- Tamazight(Tifinagh): **ⵉⵙⵙⴰⵏ ⵏ ⵍⵃⵎⴰ ⴰⵖⴰ ⵉⵣⴷⴻⵎ ⵢⴰⵏ ⵉⵜⴳⴻⵔⵙⵜ**
+  - Tamazight(Arabic caracters): **ءوسان ن لحما ءاغ يزدم يان ءيتكرست**
+  - Tamazight(Latin): **ossan n l7ma igha yzdem yan itgrst**
 
 
 #### 2.2 Multiple Options for Transcription
 
 Some Arabic characters can be transcribed into **Arabizi** using different Latin representations. Contributors are encouraged to choose the most appropriate representation or provide multiple versions for flexibility. 
 
-| **Arabic Characters** | **Latin Alphabet Options** |  
+| **Tifinagh** | **Latin Alphabet Options** |  
 |------------------------|---------------------------|
-| ش                       | sh, ch                   |
-| غ                       | gh, r                    |
-| خ                       | kh, 5                    |
+| ⵛ                       | sh, ch                   |
+| ⵖ                       | gh, r                    |
+| ⵅ                       | kh, 5                    |
 
 #### Examples:
 
-- Arabic: **شحال الثمن؟**
-  - Arabizi: **sh7al thman?** or **ch7al thman?**
-- Arabic: **غالي بزاف**
-  - Arabizi: **ghali bzzaf** or **rali bzzaf**
-- Arabic: **خليني نشوف**
-  - Arabizi: **khallini nshof** or **5allini nshof**
+- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ : ⵣⵓⵏⴷ ⴰⵛⵜⵜⴰⴱ ⵓⵡⴼⵓⵍⵍⵓⵙ ⴰⴷⵓ ⵏⵏⴰ ⴷ ⴽⴰ ⵢⵓⵛⴽⴰⵏ ⵢⴰⵡⵉⵜ**
+  - Tamazight(Arabic): ** ننان وين للي زرينين: زوند ءاشطاب ءوفولّوس ءضو نا د كا يوشكان ياويت**
+  - Tamazight(Latin): **Nna win lli srinin: zond achettab owfollos ado nnas d ka youchkan yawit** or **Nna win lli srinin: zond ashettab owfollos ado nnas d ka youshkan yawit**
+- Tamazight(Tifinagh): **iⵖla lⵅⵉⵔⴰⴷ ⴱⴰⵀⵔⴰ**
+  - Tamazight(Arabic): **اغلا الخيراد باهرا**
+  - Tamazight(Latin): **ighla lkhirad bahra** or **irla l5irad bahra**
 
-This flexibility ensures that all possible representations of **Darija** in Latin script are covered. Contributors can add multiple entries if necessary to capture synonyms or varying user preferences.
+This flexibility ensures that all possible representations of **Tamazight** in Latin script are covered. Contributors can add multiple entries if necessary to capture synonyms or varying user preferences.
 
 
 ---
 ## 🚀 About
 
-The **Smartly Darija NLP Project** is an initiative designed to promote linguistic innovation and create NLP solutions that reflect the unique characteristics of the Moroccan dialect while addressing local and global needs.
+The **Smartly Darija NLP Project** is an initiative designed to promote linguistic innovation and create NLP solutions that reflect the unique characteristics of Tamazight while addressing local and global needs.
