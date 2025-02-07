@@ -56,7 +56,7 @@ To maintain consistency across the dataset, here’s a guide for aligning **Tama
 |---------------------------|----------------------|----------------------|-----------------------------------|---------------|
 | ⵔⵉⵖ                      | righ             |  ريغ            | أريد                              | I want        |
 | ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ ?      | mnchk addari illan ? | منشك اداري ايلان ؟  | ما هو رصيدي؟                    | What is my balance? |
-| ⵔⵉⵖ  ⴰⴷⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ adssngh mnchk addari illan | أريد معرفة رصيدي | ريغ ادسنغ منشك اداري ايلان                 | I want to know my balance |
+| ⵔⵉⵖ  ⴰⴷⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ adssngh mnchk addari illan |   ريغ ادسنغ منشك اداري ايلان |  أريد معرفة رصيدي                  | I want to know my balance |
 
 ---
 
