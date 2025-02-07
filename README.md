@@ -22,7 +22,7 @@ This dataset will serve as the foundation for developing an **intelligent chatbo
 `ⵎⴰⵏⵉⴽ ⵔⴰⴷⵙⴽⵔⵖ ⴱⴰⵛ ⴰⴷⴱⴰⴷⵍⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ?`
 
 **Expected Output:**  
-`ⴱⴰⵛ ⴰⵜⵙⴱⴰⴷⵍⵜ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ ⵉⵅⴰⵙⵙⴰⴽ ⴰⵜⵜⴰⴷⵔⵜ ⴼ 'ⵜⵜⵓⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ' ⵔⴰⴽⵓⴷⴰⵏ ⵙⴱⴰⴷⵍⵜ.`
+`ⴱⴰⵛ ⴰⵜⵙⴱⴰⴷⵍⵜ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ ⵉⵅⴰⵙⵙⴰⴽ ⴰⵜⵜⴰⴷⵔⵜ ⴼ 'ⵜⵜⵓⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ' ⵖⴰⴽⵓⴷⴰⵏ ⵙⴱⴰⴷⵍⵜ.`
 
 By highlighting the richness and diversity of Moroccan culture, we aim to lay the groundwork for innovative **Natural Language Processing (NLP)** solutions.
 ---
