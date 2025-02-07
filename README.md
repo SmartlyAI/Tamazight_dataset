@@ -81,20 +81,20 @@ In **Arabic**, Arabic letters can be expressed using numbers to represent sounds
 - Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵉⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ :" ⵢⵓⴼ ⴰⵅⴱⴰⵛ ⵏ ⵜⵉⵣⵡⴰ ⴰⵛⵡⴰⵔⵉ ⵏ ⵉⵣⴰⵏ **  
   - Tamazight(Arabic caracters): **ننان وين للي زرينين: 'يوف اخباش ن تيزوا اشواري ن ايزان'**
   - Tamazight(Latin): **NNan willi zrinin :'Youf a5bach n tizwa achwari n izan'**
-- Tamazight(Tifinagh): **ⵜⴰⵎⵏⵜⵓⵏⵜ ⵉⴳⴳⵄⵜⵏ ⴰⵔ ⵜⵙⴱⵣⴰⴳ ⵍⵄⵊⵉⵏ**  
+- Tamazight(Tifinagh): **ⵜⴰⵎⴰⵜⵓⵏⵜ ⵉⵖ ⵜⴳⴳⵓⵜ ⴰⵔ ⵜⵙⴱⵣⴰⴳ ⵍⵄⵊⵉⵏ**  
   - Tamazight(Arabic caracters): **تاماتونت اغ تكوت ار تسبزاك العجين**
   - Tamazight(Latin): **tamatont iggotn ar tsbzag l3jin**
 - Tamazight(Tifinagh): **ⵜⵛⵇⵇⴰ ⵜⴰⵡⵡⵓⵔⵉ**  
   - Tamazight(Arabic caracters): **تشققا تاووري**
   - Tamazight(Latin):**tche99a tawwori**
-- Tamazight(Tifinagh): **ⵉⵙⵙⴰⵏ ⵏ ⵍⵃⵎⴰ ⴰⵖⴰ ⵉⵣⴷⴻⵎ ⵢⴰⵏ ⵉⵜⴳⴻⵔⵙⵜ**
+- Tamazight(Tifinagh): **ⵓⵙⵙⴰⵏ ⵏ ⵍⵃⵎⴰ ⴰⵖⴰ ⵉⵣⴷⴻⵎ ⵢⴰⵏ ⵉⵜⴳⴻⵔⵙⵜ**
   - Tamazight(Arabic caracters): **ءوسان ن لحما ءاغ يزدم يان ءيتكرست**
   - Tamazight(Latin): **ossan n l7ma agha yzdem yan itgrst**
 
 
 #### 2.2 Multiple Options for Transcription
 
-Some Arabic characters can be transcribed into **Arabizi** using different Latin representations. Contributors are encouraged to choose the most appropriate representation or provide multiple versions for flexibility. 
+Some Tifinagh characters can be transcribed into **Latin transcription** using different Latin representations. Contributors are encouraged to choose the most appropriate representation or provide multiple versions for flexibility. 
 
 | **Tifinagh** | **Latin Alphabet Options** |  
 |------------------------|---------------------------|
