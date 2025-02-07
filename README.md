@@ -106,7 +106,7 @@ Some Tifinagh characters can be transcribed into **Latin transcription** using d
 
 - Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ : ⵣⵓⵏⴷ ⴰⵛⵜⵜⴰⴱ ⵓⵡⴼⵓⵍⵍⵓⵙ ⴰⴷⵓ ⵏⵏⴰ ⴷ ⴽⴰ ⵢⵓⵛⴽⴰⵏ ⵢⴰⵡⵉⵜ**
   - Tamazight(Arabic): ** ننان وين للي زرينين: زوند ءاشطاب ءوفولّوس ءضو نا د كا يوشكان ياويت**
-  - Tamazight(Latin): **Nna win lli srinin: zond achettab owfollos ado nnas d ka youchkan yawit** or **Nna win lli srinin: zond ashettab owfollos ado nnas d ka youshkan yawit**
+  - Tamazight(Latin): **Nnan win lli zrinin: zond achettab owfollos ado nnas d ka youchkan yawit** or **Nnan win lli zrinin: zond ashettab owfollos ado nnas d ka youshkan yawit**
 - Tamazight(Tifinagh): **iⵖla lⵅⵉⵔⴰⴷ ⴱⴰⵀⵔⴰ**
   - Tamazight(Arabic): **اغلا الخيراد باهرا**
   - Tamazight(Latin): **ighla lkhirad bahra** or **irla l5irad bahra**
