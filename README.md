@@ -56,7 +56,7 @@ To maintain consistency across the dataset, here’s a guide for aligning **Tama
 |---------------------------|----------------------|----------------------|-----------------------------------|---------------|
 | ⵔⵉⵖ                      | righ             |  ريغ            | أريد                              | I want        |
 | ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ ?      | mnchk addari illan ? | منشك اداري ايلان ؟  | ما هو رصيدي؟                    | What is my balance? |
-| ⵔⵉⵖ  ⴰⴷⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ adssngh mnchk addari illan | أريد معرفة رصيدي                 | I want to know my balance |
+| ⵔⵉⵖ  ⴰⴷⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ adssngh mnchk addari illan | أريد معرفة رصيدي | ريغ ادسنغ منشك اداري ايلان                 | I want to know my balance |
 
 ---
 
@@ -89,7 +89,7 @@ In **Arabic**, Arabic letters can be expressed using numbers to represent sounds
   - Tamazight(Latin):**tche99a tawwori**
 - Tamazight(Tifinagh): **ⵉⵙⵙⴰⵏ ⵏ ⵍⵃⵎⴰ ⴰⵖⴰ ⵉⵣⴷⴻⵎ ⵢⴰⵏ ⵉⵜⴳⴻⵔⵙⵜ**
   - Tamazight(Arabic caracters): **ءوسان ن لحما ءاغ يزدم يان ءيتكرست**
-  - Tamazight(Latin): **ossan n l7ma igha yzdem yan itgrst**
+  - Tamazight(Latin): **ossan n l7ma agha yzdem yan itgrst**
 
 
 #### 2.2 Multiple Options for Transcription
