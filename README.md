@@ -19,10 +19,10 @@ This dataset will serve as the foundation for developing an **intelligent chatbo
 - Delivering **precise and tailored** responses.
 ### 🌟 Example
 **User Input:**
-`ⵎⴰⵏⵉⴽ ⵔⴰⴷⵙⴽⵔⵖ ⴱⴰⵛ ⴰⴷⴱⴰⴷⵍⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ?`
+`ⵎⴰⵏⵉⴽ ⵔⴰ ⴷ ⵙⴽⵔⵖ ⴱⴰⵛ ⴰⴷ ⴱⴰⴷⵍⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ?`
 
 **Expected Output:**  
-`ⴱⴰⵛ ⴰⵜⵙⴱⴰⴷⵍⵜ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ ⵉⵅⴰⵙⵙⴰⴽ ⴰⵜⵜⴰⴷⵔⵜ ⴼ 'ⵜⵜⵓⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ' ⵖⴰⴽⵓⴷⴰⵏ ⵙⴱⴰⴷⵍⵜ.`
+`ⴱⴰⵛ ⴰⵜ ⵙⴱⴰⴷⵍⵜ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ ⵉⵅⴰⵙⵙⴰⴽ ⴰⵜⵜⴰⴷⵔⵜ ⴼ 'ⵜⵜⵓⵖ ⴰⵡⴰⵍⵉⵡ ⵏ ⵓⵙⴷⵖⴰⵙ' ⵖⴰⴽⵓⴷⴰⵏ ⵙⴱⴰⴷⵍⵜ.`
 
 By highlighting the richness and diversity of Moroccan culture, we aim to lay the groundwork for innovative **Natural Language Processing (NLP)** solutions.
 ---
@@ -56,7 +56,7 @@ To maintain consistency across the dataset, here’s a guide for aligning **Tama
 |---------------------------|----------------------|----------------------|-----------------------------------|---------------|
 | ⵔⵉⵖ                      | righ             |  ريغ            | أريد                              | I want        |
 | ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ ?      | mnchk addari illan ? | منشك اداري ايلان ؟  | ما هو رصيدي؟                    | What is my balance? |
-| ⵔⵉⵖ  ⴰⴷⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ adssngh mnchk addari illan |   ريغ ادسنغ منشك اداري ايلان |  أريد معرفة رصيدي                  | I want to know my balance |
+| ⵔⵉⵖ  ⴰⴷ ⵙⵙⵏⵖ ⵎⵏⵛⴽ ⴰⴷⴷⴰⵔⵉ ⵉⵍⵍⴰⵏ     | righ ad ssngh mnchk addari illan |   ريغ اد سنغ منشك اداري ايلان |  أريد معرفة رصيدي                  | I want to know my balance |
 
 ---
 
@@ -78,9 +78,9 @@ In **Arabic**, Arabic letters can be expressed using numbers to represent sounds
 | ⵅ (`kh`)               | 5                    | خ                      |
 
 #### Examples:
-- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵉⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ :" ⵢⵓⴼ ⴰⵅⴱⴰⵛ ⵏ ⵜⵉⵣⵡⴰ ⴰⵛⵡⴰⵔⵉ ⵏ ⵉⵣⴰⵏ **  
-  - Tamazight(Arabic caracters): **ننان وين للي زرينين: 'يوف اخباش ن تيزوا اشواري ن ايزان'**
-  - Tamazight(Latin): **NNan willi zrinin :'Youf a5bach n tizwa achwari n izan'**
+- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ :" ⵢⵓⴼ ⴰⵅⴱⴰⵛ ⵏ ⵜⵉⵣⵡⴰ ⴰⵛⵡⴰⵔⵉ ⵏ ⵉⵣⴰⵏ **  
+  - Tamazight(Arabic caracters): **ننان ووين للي زرينين: 'يوف اخباش ن تيزوا اشواري ن ايزان'**
+  - Tamazight(Latin): **NNan wwin lli zrinin :'Youf a5bach n tizwa achwari n izan'**
 - Tamazight(Tifinagh): **ⵜⴰⵎⴰⵜⵓⵏⵜ ⵉⵖ ⵜⴳⴳⵓⵜ ⴰⵔ ⵜⵙⴱⵣⴰⴳ ⵍⵄⵊⵉⵏ**  
   - Tamazight(Arabic caracters): **تاماتونت اغ تكوت ار تسبزاك العجين**
   - Tamazight(Latin): **tamatont iggotn ar tsbzag l3jin**
@@ -104,12 +104,12 @@ Some Tifinagh characters can be transcribed into **Latin transcription** using d
 
 #### Examples:
 
-- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ : ⵣⵓⵏⴷ ⴰⵛⵜⵜⴰⴱ ⵓⵡⴼⵓⵍⵍⵓⵙ ⴰⴷⵓ ⵏⵏⴰ ⴷ ⴽⴰ ⵢⵓⵛⴽⴰⵏ ⵢⴰⵡⵉⵜ**
+- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ : ⵣⵓⵏⴷ ⴰⵛⵜⵜⴰⴱ ⵓⵡⴼⵓⵍⵍⵓⵙ ⴰⴷⵓ ⵏⵏⴰ ⴷ ⴽⴰ ⵢⵓⵛⴽⴰⵏ ⵢⴰⵡⵉⵜ**
   - Tamazight(Arabic): ** ننان وين للي زرينين: زوند ءاشطاب ءوفولّوس ءضو نا د كا يوشكان ياويت**
-  - Tamazight(Latin): **Nnan win lli zrinin: zond achettab owfollos ado nnas d ka youchkan yawit** or **Nnan win lli zrinin: zond ashettab owfollos ado nnas d ka youshkan yawit**
-- Tamazight(Tifinagh): **iⵖla lⵅⵉⵔⴰⴷ ⴱⴰⵀⵔⴰ**
-  - Tamazight(Arabic): **اغلا الخيراد باهرا**
-  - Tamazight(Latin): **ighla lkhirad bahra** or **irla l5irad bahra**
+  - Tamazight(Latin): **Nnan wwin lli zrinin: zond achettab owfollos ado nnas d ka youchkan yawit** or **Nnan win lli zrinin: zond ashettab owfollos ado nnas d ka youshkan yawit**
+- Tamazight(Tifinagh): **iⵖla lⵅⵉⵔ ⴰⴷ ⴱⴰⵀⵔⴰ**
+  - Tamazight(Arabic): **اغلا الخير اد باهرا**
+  - Tamazight(Latin): **ighla lkhir ad bahra** or **irla l5ir ad bahra**
 
 This flexibility ensures that all possible representations of **Tamazight** in Latin script are covered. Contributors can add multiple entries if necessary to capture synonyms or varying user preferences.
 
