@@ -78,7 +78,7 @@ In **Arabic**, Arabic letters can be expressed using numbers to represent sounds
 | ⵅ (`kh`)               | 5                    | خ                      |
 
 #### Examples:
-- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ :" ⵢⵓⴼ ⴰⵅⴱⴰⵛ ⵏ ⵜⵉⵣⵡⴰ ⴰⵛⵡⴰⵔⵉ ⵏ ⵉⵣⴰⵏ **  
+- Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ :" ⵢⵓⴼ ⴰⵅⴱⴰⵛ ⵏ ⵜⵉⵣⵡⴰ ⴰⵛⵡⴰⵔⵉ ⵏ ⵉⵣⴰⵏ**  
   - Tamazight(Arabic caracters): **ننان ووين للي زرينين: 'يوف اخباش ن تيزوا اشواري ن ايزان'**
   - Tamazight(Latin): **NNan wwin lli zrinin :'Youf a5bach n tizwa achwari n izan'**
 - Tamazight(Tifinagh): **ⵜⴰⵎⴰⵜⵓⵏⵜ ⵉⵖ ⵜⴳⴳⵓⵜ ⴰⵔ ⵜⵙⴱⵣⴰⴳ ⵍⵄⵊⵉⵏ**  
@@ -105,7 +105,7 @@ Some Tifinagh characters can be transcribed into **Latin transcription** using d
 #### Examples:
 
 - Tamazight(Tifinagh): **ⵏⵏⴰⵏ ⵡⵡⵉⵏ ⵍⵍⵉ ⵣⵔⵉⵏⵉⵏ : ⵣⵓⵏⴷ ⴰⵛⵜⵜⴰⴱ ⵓⵡⴼⵓⵍⵍⵓⵙ ⴰⴷⵓ ⵏⵏⴰ ⴷ ⴽⴰ ⵢⵓⵛⴽⴰⵏ ⵢⴰⵡⵉⵜ**
-  - Tamazight(Arabic): ** ننان وين للي زرينين: زوند ءاشطاب ءوفولّوس ءضو نا د كا يوشكان ياويت**
+  - Tamazight(Arabic): **ننان وين للي زرينين: زوند ءاشطاب ءوفولّوس ءضو نا د كا يوشكان ياويت**
   - Tamazight(Latin): **Nnan wwin lli zrinin: zond achettab owfollos ado nnas d ka youchkan yawit** or **Nnan win lli zrinin: zond ashettab owfollos ado nnas d ka youshkan yawit**
 - Tamazight(Tifinagh): **iⵖla lⵅⵉⵔ ⴰⴷ ⴱⴰⵀⵔⴰ**
   - Tamazight(Arabic): **اغلا الخير اد باهرا**
